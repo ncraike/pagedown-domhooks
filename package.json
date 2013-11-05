@@ -1,0 +1,23 @@
+{
+  "name": "pagedown-domhooks",
+  "version": "0.0.0",
+  "description": "Plugin for Markdown implementation Pagedown which lets other plugins manipulate the resulting HTML using a DOM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ncraike/pagedown-domhooks.git"
+  },
+  "keywords": [
+    "pagedown",
+    "markdown",
+    "dom"
+  ],
+  "author": "Nathan Craike <ncraike@gmail.com> (https://github.com/ncraike)",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/ncraike/pagedown-domhooks/issues"
+  }
+}
