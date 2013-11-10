@@ -19,5 +19,9 @@
   "license": "MIT License",
   "bugs": {
     "url": "https://github.com/ncraike/pagedown-domhooks/issues"
+  },
+  "dependencies": {
+    "jsdom": "~0.8.8",
+    "pagedown": "https://bitbucket.org/ncraike/pagedown/get/default.tar.gz"
   }
 }
